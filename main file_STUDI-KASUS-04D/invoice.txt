@@ -1,0 +1,12 @@
+Rincian keuangan sekolah : 
+---------------------------------------
+Tanggal : 22-12-2022
+(dana masuk) Dana dari BOS             : 4000000
+(Dana keluar) Dana diskon SPP          : 1800000
+(Dana masuk) Dana dari SPP             : 65700000
+(Dana masuk) Dana dari Lembaga Sosial  : 2000000
+(Dana keluar) Dana penggajian karyawan : 1000000
+(Dana keluar) Dana penggajian guru     : 4000000
+(Dana Keluar) Dana pembelian LKS       : 2150000
+---------------------------------------
+Total dana sekolah saat ini : 60050000
