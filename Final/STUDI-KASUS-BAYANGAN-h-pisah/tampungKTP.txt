@@ -1,0 +1,57 @@
+===========================================================
+              PROVINSI DAERAH ISTIMEWA YOGYAKARTA
+                        KABUPATEN BANTUL
+===========================================================
+NIK			 : 1234567898765432
+Nama			 : mufti
+Tempat/Tgl Lahir	 : magelang, 20-04-2002
+Jenis Kelamin		 : laki-laki              Gol. Darah : AB
+Alamat			 : magelang
+	RT		 : 001
+	RW		 : 009
+	Kel/Desa	 : pakunden
+	Kecamatan	 : ngluwar
+Agama			 : ISLAM
+Status Perkawinan	 : belum_kawin
+Pekerjaan		 : mahasiswa
+Kewarganegaraan		 : WNI
+Berlaku Hingga		 : SEUMUR HIDUP
+===========================================================
+===========================================================
+              PROVINSI DAERAH ISTIMEWA YOGYAKARTA
+                        KABUPATEN BANTUL
+===========================================================
+NIK			 : 9876543212345678
+Nama			 : agus
+Tempat/Tgl Lahir	 : lampung, 15-05-2003
+Jenis Kelamin		 : laki-laki              Gol. Darah : A
+Alamat			 : lampung
+	RT		 : 004
+	RW		 : 003
+	Kel/Desa	 : karet
+	Kecamatan	 : saka
+Agama			 : ISLAM
+Status Perkawinan	 : belum_kawin
+Pekerjaan		 : mahasiswa
+Kewarganegaraan		 : WNI
+Berlaku Hingga		 : SEUMUR HIDUP
+===========================================================
+===========================================================
+              PROVINSI DAERAH ISTIMEWA YOGYAKARTA
+                        KABUPATEN BANTUL
+===========================================================
+NIK			 : 3456789876543212
+Nama			 : febrilian
+Tempat/Tgl Lahir	 : magelang, 23-06-2003
+Jenis Kelamin		 : laki-laki              Gol. Darah : B
+Alamat			 : magelang
+	RT		 : 002
+	RW		 : 005
+	Kel/Desa	 : kenatan
+	Kecamatan	 : muntilan
+Agama			 : ISLAM
+Status Perkawinan	 : belum_kawin
+Pekerjaan		 : mahasiswa
+Kewarganegaraan		 : WNI
+Berlaku Hingga		 : SEUMUR HIDUP
+===========================================================
